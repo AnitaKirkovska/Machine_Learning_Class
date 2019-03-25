@@ -4,12 +4,15 @@
 
 # Resources used
 
+## General
+1. [Keras documentation](https://keras.io/)
+2. [Numpy documentation](http://www.numpy.org/)
+3. [Codelabs by Google](https://codelabs.developers.google.com/)
+
 ## Neural Networks 
 
-1. [Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome) with Andrew Ng, Artificial Inteligence pioneer.
-2. [Keras documentation](https://keras.io/)
-3. [Numpy documentation](http://www.numpy.org/)
-4. [Make your own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G). One of the best book to start with the material.
+1. [Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome) with Andrew Ng, Artificial Inteligence pioneer. FREE COURSE.
+2. [Make your own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G). One of the best book to start with the material.
 
 
 ## Convolutonal Networks
