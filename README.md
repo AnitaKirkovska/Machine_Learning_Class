@@ -1,6 +1,6 @@
-# ML_Course_Homeworks 
+# Machine Learning Course Spring 2019, University of Central Florida 
 
-``` This repository consists of materials, resources, examples, code workshops and homeworks that we did as part of the Machine Learning course at UCF in Spring 2019.```
+``` This repository consists of materials, resources, examples, code workshops and homeworks that were useful for me as a beginner.```
 
 # Resources used
 
