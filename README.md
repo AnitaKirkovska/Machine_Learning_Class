@@ -4,7 +4,7 @@
 
 # Resources used
 
-## General
+## Tools
 1. [Keras documentation](https://keras.io/)
 2. [Numpy documentation](http://www.numpy.org/)
 3. [Codelabs by Google](https://codelabs.developers.google.com/)
@@ -14,6 +14,7 @@
 1. [Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome) with Andrew Ng, Artificial Inteligence pioneer. FREE COURSE, really good content, and excellent projects.
 2. [Make your own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G). One of the best book to start with the material. If you are a begginer you will love this book. It takes on the simplest explanation and adds complexity to it until you finally are able to build your first NN.
 3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) Free book, professors recommendation.
+4. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python). Really good book to start with. 
 
 ## Convolutonal Networks
 
