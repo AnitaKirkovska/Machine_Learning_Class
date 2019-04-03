@@ -36,3 +36,4 @@ In the homework I used 50 and 100 epochs tests, varying my learning rate between
 
 ## K-fold hold-out validation
 ```
+*   Accuracy with 'Naked' model = 63 %
