@@ -15,13 +15,12 @@ In the homework I used 50 and 100 epochs tests, varying my learning rate between
 
 **With 50 epochs:**
 ```
-*   Accuracy without Dropout = 71.54%
+*   Accuracy wit 'Naked' model = 71.54%
 *   Accuracy with Dropout = 75.55%
 *   Accuracy with 2 Dropouts = 75.79%
 *   Accuracy with Data Aug = 78.84 %
 *   Accuracy with L2 and Batch Normalization = 66.94 %
 *   Accuracy with all = 62.71%
-*   Accuracy with all = 62.71 % 
 ```
 **With 100 epochs:**
 
