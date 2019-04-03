@@ -34,6 +34,6 @@ In the homework I used 50 and 100 epochs tests, varying my learning rate between
 *   Accuracy with Data Aug = 73.06 %
 ```
 
-## K-fold hold-out validation
+## K-fold hold-out validation with 5-partitions
 ```
-*   Accuracy with 'Naked' model = 63 %
+*   Accuracy with 'Naked' model = 59,43 %, 61.05 %, 60.70 %, 61.37 %, 62.14 %
