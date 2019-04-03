@@ -30,9 +30,9 @@ In the homework I used 50 and 100 epochs tests, varying my learning rate between
 *   Accuracy with Data Aug = 75.94 % 
 ```
 
-**Test 50 epochs:**
+**Test with the best validation accuracy model:**
 ```
-*   Accuracy with Data Aug = 73.06
+*   Accuracy with Data Aug = 73.06 %
 ```
 
 ## K-fold hold-out validation
