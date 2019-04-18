@@ -4,7 +4,7 @@
 
 This homework will get you up to speed with Python programming, numpy, matplotlib, Keras, gradients, partial derivatives, git, GitHub, Google's colaboratory etc. Have fun!For this homework, you will create neural networks with an input layer and an output layer without any hidden layers. The connections are dense: each input neuron is connected to each output neuron.
 
-## Instructions for problems 1 and 2:
+## Instructions for problems 1 and 2: - Done
 ```
 Load the training and test data using Keras, no validation set needed.
 ```
@@ -19,22 +19,22 @@ Implement mini-batch stochastic gradient descent using only numpy, that is, you 
 ```
 Use argmax to determine the classifier with the strongest output and declare the corresponding digit as output.
 ```
-## Problem 1
+## Problem 1 - Done
 Use logistic regression with mean squared error loss.
 
-## Problem 2
+## Problem 2 - Done
 Use logistic regression with binary cross entropy loss.
 
-## Problem 3
+## Problem 3 - Done
 Load the training and test data using Keras, no validation set needed.
 Create network with an input layer consisting of 28 x 28 input neurons and an output layer consisting of 10 output neurons.
 Use softmax and categorical cross entropy loss.
 Implement mini-batch stochastic gradient descent using only numpy, that is, you are not allowed to use TensorFlow/Keras for SGD.
 
-## Problem 4
+## Problem 4 - Done
 Reimplement the network from Problem 3 entirely in Keras.
 
-## Problem 5
+## Problem 5 - Done
 Extend the network from Problem 4 by adding new features.
 
 Round the grey values of the images to 1 and 0 so you obtain black and white images. Add as an additional feature the number of white regions. For instance, a typical 0 has 2 white regions and 8 has 3. Use the following neighborhoods for pixels:
