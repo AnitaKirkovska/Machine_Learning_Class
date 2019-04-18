@@ -4,7 +4,7 @@ The goal of this homework is to create a convolutional neural network for the CI
 
 You should not use any pretrained convnets that come with Keras. You have to create and train your own convnets with Keras from scratch.
 
-## Simple hold-out-validation
+## Simple hold-out-validation - Done
 Make sure that the data is divided into:
 
 ```training set(80%),```
@@ -16,6 +16,6 @@ After trying several different architectures, choose the one that performs best 
 
 Train this final architecture on the data from the training set and validation set and evaluate its performance on the test set.
 
-## K-fold validation
+## K-fold validation - Done
 
 Reevaluate your best architecture using k-fold validation with k=5, that is, the size of the validation fold is 20%. Does the accuracy/loss obtain by k-fold validation differ from the accuracy/loss obtain by simple hold-out validation.
