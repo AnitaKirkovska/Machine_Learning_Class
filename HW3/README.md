@@ -7,18 +7,18 @@ Experiment with different classifiers, trying to maximize the validation accurac
 
 ---
 
-## Problem 1
+## Problem 1 - Done
 
 Do feature extraction with data augmentation.
 
-## Problem 2
+## Problem 2 - Done
 
 Do fine-tuning with data augmentation. 
 
-## Problem 3
+## Problem 3 - Done
 
 Visualize heatmaps of class activation for the the model obtained in Problem 2.
 
-## Problem 4
+## Problem 4 - Done
 
 Build an activation model that takes as input an image and produces as output the activation of the last conv layer of the model obtained in Problem 2. Using this activation model obtain the corresponding activations for the validation images. Apply t-SNE visualization to these activations to see how well the convnet separates cats from dogs.
