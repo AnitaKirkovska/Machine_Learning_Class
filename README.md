@@ -21,3 +21,4 @@
 2. [Begginers guide to Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/) by Adit Deshpande. Really useful to start with.
 3. [Convolutional Neural Networks for Visual Recognitions by Stanford](http://cs231n.github.io/) Only notes available.
 4. [Visualizing and Understanding ConvNets](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf) A research paper.
+
