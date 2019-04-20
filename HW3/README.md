@@ -1,3 +1,6 @@
+# Full Solution file is final. 
+# Testing Solutions can be found too, but they are not the homework file. 
+
 # HW 3
 
 The goal of this homework is to learn how to leverage pretrained convnets and to use some visualization techniques.
