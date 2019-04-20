@@ -1,5 +1,5 @@
 # [Full Solution file](https://github.com/AnitaKirkovska/Machine_Learning_Class/blob/master/HW3/Full_Solution_All_Problems.ipynb) is the final document for HW3. 
-# Testing Solutions folder has files for reference of exercises on the topic. 
+``` Testing Solutions folder has files for reference of exercises on the topic. ```
 
 # HW 3
 
