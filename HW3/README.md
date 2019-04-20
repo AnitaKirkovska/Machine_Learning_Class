@@ -1,4 +1,4 @@
-# [https://github.com/AnitaKirkovska/Machine_Learning_Class/blob/master/HW3/Full_Solution_All_Problems.ipynb](Full Solution file) is final. 
+# [Full Solution fil](https://github.com/AnitaKirkovska/Machine_Learning_Class/blob/master/HW3/Full_Solution_All_Problems.ipynb) is final. 
 # Testing Solutions can be found too, but they are not the homework file. 
 
 # HW 3
